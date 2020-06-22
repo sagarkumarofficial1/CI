@@ -8,7 +8,7 @@ namespace CI
         {
             Console.WriteLine("Hello World!");
             
-            Console.WiteLine("Sagar");
+            Console.WriteLine("Sagar");
         }
     }
 }
