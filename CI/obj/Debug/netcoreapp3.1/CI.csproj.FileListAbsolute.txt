@@ -1,0 +1,11 @@
+C:\Users\Sagar Kumar\source\repos\CI\CI\bin\Debug\netcoreapp3.1\CI.exe
+C:\Users\Sagar Kumar\source\repos\CI\CI\bin\Debug\netcoreapp3.1\CI.deps.json
+C:\Users\Sagar Kumar\source\repos\CI\CI\bin\Debug\netcoreapp3.1\CI.runtimeconfig.json
+C:\Users\Sagar Kumar\source\repos\CI\CI\bin\Debug\netcoreapp3.1\CI.runtimeconfig.dev.json
+C:\Users\Sagar Kumar\source\repos\CI\CI\bin\Debug\netcoreapp3.1\CI.dll
+C:\Users\Sagar Kumar\source\repos\CI\CI\bin\Debug\netcoreapp3.1\CI.pdb
+C:\Users\Sagar Kumar\source\repos\CI\CI\obj\Debug\netcoreapp3.1\CI.csprojAssemblyReference.cache
+C:\Users\Sagar Kumar\source\repos\CI\CI\obj\Debug\netcoreapp3.1\CI.AssemblyInfoInputs.cache
+C:\Users\Sagar Kumar\source\repos\CI\CI\obj\Debug\netcoreapp3.1\CI.AssemblyInfo.cs
+C:\Users\Sagar Kumar\source\repos\CI\CI\obj\Debug\netcoreapp3.1\CI.dll
+C:\Users\Sagar Kumar\source\repos\CI\CI\obj\Debug\netcoreapp3.1\CI.pdb
